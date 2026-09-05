@@ -4,8 +4,6 @@
   # Hi! I'm Anwar Machado.
   `Backend Developer & Guitar Player` 
 
-  <br/>
-
   <!-- Links de Redes Sociais e Plataformas -->
   <p>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -69,9 +67,6 @@
 
 </div>
 
-<br>
-
-
 <div align="center">
 
 ### 📈 Statistics
@@ -87,5 +82,8 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwar-machado&theme=dark" alt="" width="95%" />
 </p>
+
+<br>
+
 
 </div>
