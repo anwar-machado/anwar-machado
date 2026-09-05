@@ -35,23 +35,45 @@
 
 <div align="center">
 
-### 💻 Tech Stack
+<div align="center">
 
-<!-- Ícones Coloridos Estilo Skill Icons -->
+### Tech Stack & Software Engineering
+
+<!-- Linguagens, Frameworks & Core -->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,vue,angular,ts,docker,redis,postgres,grafana,git&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,ts,js,vue,angular&perline=7" alt="Languages & Frameworks" />
+  </a>
+</p>
+
+<!-- Infraestrutura, Dados & Observabilidade -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,kubernetes,redis,postgres,mysql,grafana,git,github,actions&perline=9" alt="DevOps & Data" />
+  </a>
+</p>
+
+<!-- Ferramentas de Design de Sistemas, API & Testes -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,linux,bash,vscode&perline=6" alt="Tools & Environment" />
   </a>
 </p>
 
 <br/>
 
-<!-- System Design & Concepts -->
+### Software Architecture & Design Principles
+
 <p>
   <img src="https://img.shields.io/badge/ARCHITECTURE-Microservices-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/DESIGN_PATTERNS-Clean_Code-000000?style=flat-square" />
-  <img src="https://img.shields.io/badge/PARADIGM-Domain__Driven__Design-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/PARADIGM-Domain__Driven__Design_(DDD)-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/PATTERNS-Clean_Architecture-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/DESIGN_PATTERNS-SOLID_%26_Clean_Code-000000?style=flat-square" />
+  <br/>
   <img src="https://img.shields.io/badge/API-RESTful_%26_gRPC-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/MESSAGING-Event__Driven-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/TESTING-TDD_%26_Unit_Testing-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-000000?style=flat-square" />
 </p>
 
 </div>
