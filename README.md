@@ -1,7 +1,6 @@
 <div align="center">
   <!-- Banner Tech Dark estilo Terminal / Código -->
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop" alt="Banner Tech" width="100%" height="220" style="object-fit: cover;" />
-
+<img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=1200&auto=format&fit=crop" alt="Kaizen Banner" width="100%" height="200" style="object-fit: cover;" />
   # Hello World! I'm Anwar Machado 👋
   ### `Backend Developer & Guitar Player` 🎸
 
