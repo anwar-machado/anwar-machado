@@ -77,17 +77,15 @@
 ### 📈 Statistics
 
 <p align="center">
-  <!-- Cartão de Estatísticas do GitHub (Tema Dark) -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anwar-machado&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <!-- Cartão de Sequência / Streak (Tema Dark) -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar-machado&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- Cartão de Estatísticas Geral (Usando API alternava muito mais estável) -->
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anwar-machado&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="" />
+  <!-- Cartão de Sequência / Streak -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar-machado&theme=dark&hide_border=true" alt="" />
 </p>
 
-<!-- Gráfico de Contribuições (Estilo Mamba/Dark minimalista) -->
+<!-- Gráfico de Contribuições (Endpoint alternativo minimalista) -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwar-machado&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anwar-machado&theme=dark" alt="" width="95%" />
 </p>
-
-</div>
 
 </div>
