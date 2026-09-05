@@ -1,8 +1,11 @@
 <div align="center">
   <!-- Banner Tech Dark estilo Terminal / Código -->
-<img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=1200&auto=format&fit=crop" alt="Kaizen Banner" width="100%" height="200" style="object-fit: cover;" />
+<!-- Banner Kaizen Minimalista -->
+  <img src="https://images.unsplash.com/photo-1578632767115-351597cf2477?q=80&w=1200&auto=format&fit=crop" alt="Kaizen" width="100%" height="200" style="object-fit: cover;" />
+
   # Hello World! I'm Anwar Machado 👋
-  ### `Backend Developer & Guitar Player` 🎸
+  ### 改善 · Kaizen — *Continuous Improvement*
+  `Backend Developer & Guitar Player` 🎸
 
   <br/>
 
