@@ -73,8 +73,7 @@
 
 <p align="center">
   <!-- Cartão de Estatísticas Geral (Usando API alternava muito mais estável) -->
-  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anwar-machado&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="" />
-  <!-- Cartão de Sequência / Streak -->
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anwar-machado&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="" />  <!-- Cartão de Sequência / Streak -->
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar-machado&theme=dark&hide_border=true" alt="" />
 </p>
 
