@@ -33,35 +33,21 @@
 
 <div align="center">
 
-### ⚙️ Tech Stack & System Design
+<div align="center">
 
-<p>
-  <!-- Backend & Core -->
-  <img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
+### 💻 Tech Stack
 
-<p>
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-<p>
-  <!-- DevOps, Data & Observability -->
-  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+<!-- Ícones Coloridos Estilo Skill Icons -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,vue,angular,ts,docker,redis,postgres,grafana,git&perline=6" alt="Tech Stack" />
+  </a>
 </p>
 
 <br/>
 
+<!-- System Design & Concepts -->
 <p>
-  <!-- Concepts & Architecture Badges -->
   <img src="https://img.shields.io/badge/ARCHITECTURE-Microservices-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/DESIGN_PATTERNS-Clean_Code-000000?style=flat-square" />
   <img src="https://img.shields.io/badge/PARADIGM-Domain__Driven__Design-000000?style=flat-square" />
