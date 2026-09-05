@@ -84,6 +84,9 @@
 </p>
 
 <br>
+</div>
 
-
+<p>This is what the PP should be...</p>
+<div align="center">
+  <img src="my-gif2.gif" width="150px" style="border-radius: 50%;" alt="Avatar Animado" />
 </div>
