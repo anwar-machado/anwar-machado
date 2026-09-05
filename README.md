@@ -1,8 +1,9 @@
 <div align="center">
   <!-- Imagem do Kaizen do seu Pinterest -->
-  <img src="./assets/kaizen.jpg" alt="Kaizen" width="100%" height="220" style="object-fit: cover;" />
+  <!-- Imagem do seu upload recortada na proporção de banner -->
+  <img src="kaizen.pjpg" alt="Kaizen" width="100%" height="220" style="object-fit: cover; object-position: center;" />
 
-  # Hi. I'm Anwar Machado 
+  # Hi! I'm Anwar Machado.
   `Backend Developer & Guitar Player` 
 
   <br/>
