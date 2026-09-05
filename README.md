@@ -1,62 +1,89 @@
 <div align="center">
-  <!-- Banner do Topo -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop" alt="Banner" width="100%" height="200" style="object-fit: cover;" />
+  <!-- Banner Tech Dark estilo Terminal / Código -->
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop" alt="Banner Tech" width="100%" height="220" style="object-fit: cover;" />
 
-  # Bem-vindo ao meu GitHub! 🚀
+  # Hello World! I'm Anwar Machado 👋
+  ### `Backend Developer & Guitar Player` 🎸
 
-  <!-- Badges de Redes Sociais e Perfis -->
+  <br/>
+
+  <!-- Links de Redes Sociais e Plataformas -->
   <p>
-    <a href="https://linkedin.com/in/SEU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="https://codeforces.com" target="_blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-    <a href="https://chess.com" target="_blank"><img src="https://img.shields.io/badge/Chess.com-7FA650?style=for-the-badge&logo=chess.com&logoColor=white" alt="Chess" /></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/X/TWITTER-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" /></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="" target="_blank"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   </p>
 </div>
 
----
+<br/>
 
-### About Me
+### 👨‍💻 About Me
 
 <table border="0">
   <tr>
-    <td width="60%">
-      Estudante de Engenharia de Software apaixonado por tecnologia, resolução de problemas e desenvolvimento web.
+    <td width="60%" valign="top">
+      Backend Developer focused on building scalable software architectures, distributed systems, and robust APIs. Outside of writing clean code, you will probably find me playing guitar. 🎸
       <br/><br/>
-      🎓 **Estudante** na Universidade <br/>
-      💻 **Tutor** de C++ e Estrutura de Dados <br/>
-      🏆 **Competidor** em Maratonas de Programação (ICPC) <br/>
-      ♟️ **Enxadrista** nas horas vagas
+      💼 <b>Backend Developer</b> at <b>Paytek</b><br/>
+      🎓 Senior Student in <b>Computer Engineering</b><br/>
+      🏗️ Passionate about <b>Software Architecture & System Design</b><br/>
+      🎸 Guitar player on off-hours
     </td>
-    <td width="40%" align="center">
-      <!-- GIF/Imagem Animada do Lado Direito -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eHk3Z3R5ZnAzZHZ1OHBxeW84ZjR5a2YwZzE0bndyZ3B6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3R4vh8O4pBfe/giphy.gif" width="180px" alt="Astronauta" />
+    <td width="40%" align="center" valign="middle">
+      <!-- GIF Tech / Coding Minimalista -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eHk3Z3R5ZnAzZHZ1OHBxeW84ZjR5a2YwZzE0bndyZ3B6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3R4vh8O4pBfe/giphy.gif" width="200px" alt="Astronauta / Coding" />
     </td>
   </tr>
 </table>
 
----
-
-  ### Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-### Metrics
+<br/>
 
 <div align="center">
-  <p>
-    <!-- Cartão de Estatísticas Gerais -->
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" />
-    <!-- Cartão de Sequência de Commits (Streak) -->
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark&hide_border=true" alt="GitHub Streak" />
-  </p>
+
+### ⚙️ Tech Stack & System Design
+
+<p>
+  <!-- Backend & Core -->
+  <img src="https://img.shields.io/badge/LARAVEL-000000?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <br/>
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/VUE.JS-000000?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/ANGULAR-000000?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <br/>
+  <!-- DevOps, Data & Observability -->
+  <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/GRAFANA-000000?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+<p>
+  <!-- Concepts & Architecture Badges -->
+  <img src="https://img.shields.io/badge/ARCHITECTURE-Microservices-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/DESIGN_PATTERNS-Clean_Code-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/PARADIGM-Domain__Driven__Design-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/API-RESTful_%26_gRPC-000000?style=flat-square" />
+</p>
+
+<br/>
+
+### 📈 Statistics
+
+<p align="center">
+  <!-- Cartão de Estatísticas do GitHub -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anwar-machado&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
+  <!-- Cartão de Sequência de Commits (Streak) -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar-machado&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<!-- Gráfico de Atividade/Contribuições Dark -->
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=anwar-machado&theme=github-dark" alt="Contribution Graph" width="100%" />
+</p>
+
 </div>
