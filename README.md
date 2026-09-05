@@ -19,11 +19,11 @@
 
 <br/>
 
-### 👨‍💻 About Me
+### About Me
 
 <table border="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="65%" valign="top">
       Backend Developer focused on building scalable software architectures, distributed systems, and robust APIs. Outside of writing clean code, you will probably find me playing guitar. 🎸
       <br/><br/>
       💼 <b>Backend Developer</b> at <b>Paytek</b><br/>
@@ -31,9 +31,9 @@
       🏗️ Passionate about <b>Software Architecture & System Design</b><br/>
       🎸 Guitar player on off-hours
     </td>
-    <td width="40%" align="center" valign="middle">
-      <!-- GIF Tech / Coding Minimalista -->
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eHk3Z3R5ZnAzZHZ1OHBxeW84ZjR5a2YwZzE0bndyZ3B6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3R4vh8O4pBfe/giphy.gif" width="200px" alt="Astronauta / Coding" />
+    <td width="35%" align="center" valign="middle">
+      <!-- GIF/Imagem da Direita (Escolha uma opção abaixo) -->
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2eHk3Z3R5ZnAzZHZ1OHBxeW84ZjR5a2YwZzE0bndyZ3B6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k3R4vh8O4pBfe/giphy.gif" width="180px" alt="Coding GIF" />
     </td>
   </tr>
 </table>
