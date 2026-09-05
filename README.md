@@ -17,11 +17,6 @@
 
 <br/>
 
-
-
-
-<br/>
-
 ### About Me
 
 <div align="center">
@@ -30,10 +25,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-
-<div align="center">
 
 <div align="center">
 
@@ -81,18 +72,22 @@
 <br>
 
 
+<div align="center">
+
 ### 📈 Statistics
 
 <p align="center">
-  <!-- Cartão de Estatísticas do GitHub -->
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anwar-machado&show_icons=true&theme=dark&hide_border=false" alt="GitHub Stats" />
-  <!-- Cartão de Sequência de Commits (Streak) -->
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar-machado&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <!-- Cartão de Estatísticas do GitHub (Tema Dark) -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=anwar-machado&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <!-- Cartão de Sequência / Streak (Tema Dark) -->
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=anwar-machado&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<!-- Gráfico de Atividade/Contribuições Dark -->
+<!-- Gráfico de Contribuições (Estilo Mamba/Dark minimalista) -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=anwar-machado&theme=github-dark" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anwar-machado&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" width="95%" />
 </p>
+
+</div>
 
 </div>
